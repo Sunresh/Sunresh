@@ -1,4 +1,5 @@
-NNepal
-Japan
-Organization
-KicjKick
+Home
+Calculator
+Feedback
+About
+Exit
