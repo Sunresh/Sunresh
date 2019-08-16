@@ -2,26 +2,26 @@ Version: 1.9  <br/>
         1. Calculator combined in one slide.<br/>
         2. Solved some error. <br/>	
 <br/>______________<br/>
-Version: 1.8  \n
-        1. Previous button added. \n
-        2. Fixed some error. \n	
-		\n______________\n
-Version: 1.7 \n
-        1. Manual update added. \n
-        2. Developer view added. \n
-        3. Fixed some error. \n	
-\n______________\n
-		Version: 1.6 \n
-        1. Date Notification remove. \n
-        2. Feedback fixed. \n
-        3. Some error fixed. \n
-		\n______________\n
-		Version: 1.5 \n
-        1. Better speed. \n
-        2. Removed some contents as given by feedbacks. \n
-        3. Solved some error fixed. \n
-		\n______________\n
-        Version: 1.4 \n
-        1. UI changes. \n
-        2. Made Feedback easier. \n
-        3. Fixed Updating . \n
+Version: 1.8  <br/>
+        1. Previous button added. <br/>
+        2. Fixed some error. <br/>	
+		<br/>______________<br/>
+Version: 1.7 <br/>
+        1. Manual update added. <br/>
+        2. Developer view added. <br/>
+        3. Fixed some error. <br/>	
+<br/>______________<br/>
+		Version: 1.6 <br/>
+        1. Date Notification remove. <br/>
+        2. Feedback fixed. <br/>
+        3. Some error fixed. <br/>
+		<br/>______________<br/>
+		Version: 1.5 <br/>
+        1. Better speed. <br/>
+        2. Removed some contents as given by feedbacks. <br/>
+        3. Solved some error fixed. <br/>
+		<br/>______________<br/>
+        Version: 1.4 <br/>
+        1. UI changes. <br/>
+        2. Made Feedback easier. <br/>
+        3. Fixed Updating . <br/>
