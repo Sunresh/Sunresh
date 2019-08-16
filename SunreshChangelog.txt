@@ -1,3 +1,7 @@
+Version: 1.9.0 <br/>
+        1. Change log on online.<br/>
+        2. Solved some error. <br/>	
+<br/>______________<br/>
 Version: 1.9  <br/>
         1. Calculator combined in one slide.<br/>
         2. Solved some error. <br/>	
