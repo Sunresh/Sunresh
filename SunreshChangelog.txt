@@ -1,3 +1,11 @@
+Version: 1.9.4 <br/>
+        1. Fixed minor bugs.<br/>
+        2. Removed menu items<br/>
+<br/>______________<br/>
+Version: 1.9.3 <br/>
+        1. Fixed minor bugs.<br/>
+        2. Notification for individual<br/>
+<br/>______________<br/>
 Version: 1.9.2 <br/>
         1. Fixed minor bugs.<br/>
         
