@@ -1,3 +1,7 @@
+Version: 1.9.2 <br/>
+        1. Fixed minor bugs.<br/>
+        
+<br/>______________<br/>
 Version: 1.9.1 <br/>
         1. Physics menu added.<br/>
         2. Edited home page. <br/>	
