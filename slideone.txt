@@ -1,4 +1,4 @@
-imglnk#IMG_20190806_155611.jpg#imglnk
+imglnk#homescreen.jpg#imglnk
 slideonestart#nepal#slideoneclose
 cls#hangelogstart#ggg#changelogclose
 
