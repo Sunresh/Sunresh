@@ -1,1 +1,6 @@
 IMG_20190806_155611.jpg
+slideonestart#nepal#slideoneclose
+cls#hangelogstart#ggg#changelogclose
+
+
+"#changelogclose"#clc
