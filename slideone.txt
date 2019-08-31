@@ -1,6 +1,11 @@
-imglnk#homescreen.jpg#imglnk
-slideonestart#nepal#slideoneclose
-cls#hangelogstart#ggg#changelogclose
+imglnk#
 
-Naresh
-"#changelogclose"#clc
+homescreen.jpg
+
+#imglnk
+
+cls#
+
+This is just educational experience. If you like my project don't hesitate to tell me what a excited application you made.
+
+#clc
