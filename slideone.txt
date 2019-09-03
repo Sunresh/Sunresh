@@ -1,6 +1,6 @@
 imglnk#
 
-homescreen.jpg
+sun1024x500.png
 
 #imglnk
 
