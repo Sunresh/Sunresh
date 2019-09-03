@@ -1,3 +1,14 @@
+Version: 1.9.7 <br/>
+
+
+        1. Added Splash page for SUNRESH brand logo.<br/>
+        2. Removed simple calculator.<br/>
+        3. Added online thought.<br/>
+        4. Fixed minor bugs.<br/>
+
+
+
+<br/>______________<br/>
 Version: 1.9.4 <br/>
         1. Fixed minor bugs.<br/>
         2. Removed menu items<br/>
