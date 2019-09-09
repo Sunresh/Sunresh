@@ -1,14 +1,14 @@
-1.imglnk#asunayaVanjiMehandi.png#imglnk
+1.imglnk#homescreen.jpg#imglnk
 
 2.cls#
 Which part is you like most? Mentioned in feedback..
 #clc
 
-3.dict#
 
--Nepal#a country#nepali
--japan#a country#japanes
--naresh#king#author of this app
--
 
-#dict
+
+
+
+
+
+
