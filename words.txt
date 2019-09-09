@@ -32,202 +32,202 @@ alcove	=a partially enclosed place
 allegiance	=loyalty
 alleviate=	to make less
 alloy=	to mix with something inferior
-aloof	indifferent
-amalgamate	to combine
-ambidextrous	able to use both hands equally
-ambiguous	unclear
-ambivalent	having different meanings
-ameliorate	to make better
-amortize	to end by setting aside money
-anguish	severe suffering
-animosity	hate
-antidote	medicine to cure disease
-antithetical	direct opposite
-apartheid	brutal racial discrimination
-aplomb	self confidence
-apostate	one who abandons beliefs
-apotheosis	glorification to godliness
-appease	to calm
-apprehensive	feeling fear of the future
-apprise	to inform
-approbation	approval
-apropos	appropriate to the situation
-apt	well-suited
-arabesque	a complex ornate design
-arboreal	related to trees
-ardor	enthusiasm
-arduous	laborious
-argot	jargon
-arrant	in the highest degree
-arrogance	having superior attitude
+aloof	=indifferent
+amalgamate=	to combine
+ambidextrous=	able to use both hands equally
+ambiguous	=unclear
+ambivalent=	having different meanings
+ameliorate=	to make better
+amortize=	to end by setting aside money
+anguish=	severe suffering
+animosity=	hate
+antidote=	medicine to cure disease
+antithetical=	direct opposite
+apartheid=	brutal racial discrimination
+aplomb=	self confidence
+apostate=	one who abandons beliefs
+apotheosis=	glorification to godliness
+appease=	to calm
+apprehensive=	feeling fear of the future
+apprise=	to inform
+approbation=	approval
+apropos=	appropriate to the situation
+apt=	well-suited
+arabesque=	a complex ornate design
+arboreal=	related to trees
+ardor=	enthusiasm
+arduous=	laborious
+argot=	jargon
+arrant=	in the highest degree
+arrogance=	having superior attitude
 articulate	to speak distinctly
-ascend	to move up
-ascertain	to get to know
-ascetic	practicing self-denial
-ascribe	to consider to be the origin
-aseptic	surgically clean
-asperity	harshness
-aspersion	slander
-assail	to attack violently
-assiduous	hard-working
-assuage	to make less
-asterisk	substitution mark
-astringent	substance that shrinks
-astute	clever
-atonement	repayment
-attenuate	to make thin
-attune	to bring into harmony
-audacious	bold
-augury	omen
-august	majestic
-auspicious	favorable
-austere	severely moral
-auxiliary	supporting
-aver	to prove
-aversion	strong dislike
-avid	eager
-avow	declare openly
-baleful	harmful
-balk	to get in the way of
-baneful	causing harm
-barrage	obstacle built across a river
-barren	unable to have children
-bask	to enjoy warmth and light
-beatify	to bless
-bedizen	to adorn in cheap showy manner
-belabor	to beat hard
-bellicose	warlike
-belligerent	waging war
-benefactor	person who gives help
-benevolence	wishing good
-benign	kind
-bequest	act of passing on to another
-berate	to scold sharply
-bereft	to rob of something
-bewilder	to confuse
-bigot	narrow-minded person
-bilge	protuberance of a cask
-blandishment	cajole
-blandness	not irritating or stimulating
-blatant	loud
-blithe	carefree
-bogus	fake
-boisterous	noisy
-bolster	to give greatly needed support
-boorish	rude
-brash	hasty
-brass	yellow metal
-brazen	made of brass
-breach	to break in
-brittle	easily broken
-broach	to begin to talk about
-brook	to tolerate
-buoyant	light-hearted
-burgeon	to begin to grow
-burnish	to polish
-cabal	a scheme
-cadge	to get by begging
-cajole	to use flattery to persuade
-calipers	metal leg supports
-calumny	slander
-candid	straight-forward
-cant	insincere talk
-cantankerous	bad-tempered
-canvass	to discuss thoroughly
-castigate	to correct with punishment
-castigation	severe punishment
-catalyst	substance that causes speedup
-caustic	biting and sarcastic
-censure	official rebuke
-centurion	leader of a unit of 100 soldiers
-chary	cautious
-chastened	corrected
-chastisement	punishment
-chauvinist	a blindly devoted patriot
-chicanery	trickery
-chisel	steel tool for shaping materials
-churl	bad-tempered person
-clamor	to complain loudly
-clientele	customers
-clinch	to settle
-cling	to fasten
-clot	lump formed from liquid
-cloture	method to end debate
-coagulation	to change to thick and solid state
-coalescing	coming into one
-coax	to get something with flattery
-coda	passage at end of music
-coddle	to treat with care
-coerce	to compel
-coeval	coexisting
-cogent	convincing
-cogitate	to meditate
-cognizant	fully aware
-colander	draining bowl
-collusion	secret meeting
-combustion	process of burning
-commemorate	to honor with ceremony
-commodious	roomy
-commuter	person who travels regularly
-complaisance	willingness to please
-compunction	feeling regret
-conceal	hide
-conceit	high opinion of one's self
-conciliatory	comforting
-concord	agreement
-concur	to agree
-condense	to increase in density
-condone	to forgive
-congeal	to make stiff
-conjoin	to join together
-connoisseur	person with good judgement
-connotation	suggestion in addition to
-consequential	pompous
-console	to comfort
-conspicuous	easily seen
-consternation	fear
-constrain	to compel
-constrict	to make tight
-consume	to get to end of
-consummate	to make perfect
-contemn	to hate
-contentious	argumentative
-contiguous	touching
-contrite	feeling regret
-contumacious	rebellious
-conundrum	riddle
-conviction	strong belief
-convoke	to summon
-convoluted	complicated
-cordial	sincere
-cordon	line of police to guard
-cornucopia	abundant supply
-corporeal	pertaining to body
-correlate	to have a mutual relation
-corroboration	to confirm
-countenance	to approve of
-counterfeit	fake
-countervail	counterbalance
-covert	disguised
-covetous	desirous
-cower	crouch back in fear
-coy	shy
-crass	crude
-cravat	piece of linen worn as a necktie
-craven	cowardly
-crease	line made by crushing
-credulity	gullibility
-credulous	gullible
-crush	to overwhelm
-cryptic	with a hidden meaning
-cumbersome	burdensome
-curmudgeon	bad-tempered person
-curriculum	course of study
-cursory	done in haste
-curtail	to make shorter than planned
-dainty	delicate
-daunt	intimidate
-dawdler	slow person
+ascend	=to move up
+ascertain=	to get to know
+ascetic=	practicing self-denial
+ascribe	=to consider to be the origin
+aseptic=	surgically clean
+asperity=	harshness
+aspersion	=slander
+assail=	to attack violently
+assiduous=	hard-working
+assuage=	to make less
+asterisk=	substitution mark
+astringent	=substance that shrinks
+astute	=clever
+atonement=	repayment
+attenuate=	to make thin
+attune=	to bring into harmony
+audacious=	bold
+augury=	omen
+august=	majestic
+auspicious=	favorable
+austere=	severely moral
+auxiliary	=supporting
+aver=	to prove
+aversion	=strong dislike
+avid	=eager
+avow	=declare openly
+baleful=	harmful
+balk=	to get in the way of
+baneful	=causing harm
+barrage=	obstacle built across a river
+barren=	unable to have children
+bask=	to enjoy warmth and light
+beatify=	to bless
+bedizen	=to adorn in cheap showy manner
+belabor=	to beat hard
+bellicose=	warlike
+belligerent	=waging war
+benefactor=	person who gives help
+benevolence=	wishing good
+benign=	kind
+bequest=	act of passing on to another
+berate	=to scold sharply
+bereft=	to rob of something
+bewilder=	to confuse
+bigot	=narrow-minded person
+bilge=	protuberance of a cask
+blandishment=	cajole
+blandness	=not irritating or stimulating
+blatant=	loud
+blithe=	carefree
+bogus=	fake
+boisterous	=noisy
+bolster	=to give greatly needed support
+boorish=	rude
+brash	=hasty
+brass	=yellow metal
+brazen=	made of brass
+breach	=to break in
+brittle=	easily broken
+broach=	to begin to talk about
+brook	=to tolerate
+buoyant=	light-hearted
+burgeon=	to begin to grow
+burnish=	to polish
+cabal	=a scheme
+cadge	=to get by begging
+cajole	=to use flattery to persuade
+calipers=	metal leg supports
+calumny=	slander
+candid	=straight-forward
+cant	=insincere talk
+cantankerous=	bad-tempered
+canvass	=to discuss thoroughly
+castigate=	to correct with punishment
+castigation=	severe punishment
+catalyst=	substance that causes speedup
+caustic=	biting and sarcastic
+censure=	official rebuke
+centurion=	leader of a unit of 100 soldiers
+chary=	cautious
+chastened=	corrected
+chastisement=	punishment
+chauvinist=	a blindly devoted patriot
+chicanery=	trickery
+chisel=	steel tool for shaping materials
+churl=	bad-tempered person
+clamor=	to complain loudly
+clientele=	customers
+clinch=	to settle
+cling=	to fasten
+clot=	lump formed from liquid
+cloture=	method to end debate
+coagulation=	to change to thick and solid state
+coalescing=	coming into one
+coax	=to get something with flattery
+coda=	passage at end of music
+coddle=	to treat with care
+coerce=	to compel
+coeval=	coexisting
+cogent=	convincing
+cogitate=	to meditate
+cognizant=	fully aware
+colander=	draining bowl
+collusion	=secret meeting
+combustion=	process of burning
+commemorate=	to honor with ceremony
+commodious=	roomy
+commuter=	person who travels regularly
+complaisance=	willingness to please
+compunction=	feeling regret
+conceal=	hide
+conceit	=high opinion of one's self
+conciliatory=	comforting
+concord=	agreement
+concur	=to agree
+condense=	to increase in density
+condone	=to forgive
+congeal=	to make stiff
+conjoin	=to join together
+connoisseur=	person with good judgement
+connotation=	suggestion in addition to
+consequential=	pompous
+console	=to comfort
+conspicuous=	easily seen
+consternation=	fear
+constrain=	to compel
+constrict=	to make tight
+consume	=to get to end of
+consummate=	to make perfect
+contemn	=to hate
+contentious=	argumentative
+contiguous=	touching
+contrite	=feeling regret
+contumacious=	rebellious
+conundrum=	riddle
+conviction=	strong belief
+convoke	=to summon
+convoluted=	complicated
+cordial=	sincere
+cordon=	line of police to guard
+cornucopia	=abundant supply
+corporeal=	pertaining to body
+correlate=	to have a mutual relation
+corroboration=	to confirm
+countenance=	to approve of
+counterfeit=	fake
+countervail=	counterbalance
+covert=	disguised
+covetous	=desirous
+cower=	crouch back in fear
+coy	=shy
+crass=	crude
+cravat=	piece of linen worn as a necktie
+craven=	cowardly
+crease=	line made by crushing
+credulity=	gullibility
+credulous=	gullible
+crush=	to overwhelm
+cryptic=	with a hidden meaning
+cumbersome=	burdensome
+curmudgeon=	bad-tempered person
+curriculum	=course of study
+cursory	=done in haste
+curtail=	to make shorter than planned
+dainty	=delicate
+daunt=	intimidate
+dawdler=	slow person
 dearth	a shortage
 debacle	sudden disaster
 decorum	properness
