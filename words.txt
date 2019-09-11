@@ -1,4 +1,4 @@
-Abacus=frame with balls for calculating
+Abacus=frame with balls for calculating, mathematical tools
 abate=	to lessen
 abdication=	giving up power
 aberration	=straying away from normal
