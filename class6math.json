@@ -1,79 +1,79 @@
 [
     {
-        "question":"What is Science ?",
-        "option1":"Study Of Things",
+        "question":"What is Sets?",
+        "option1":"Collection Of Things",
         "option2":"Chitwan",
         "option3":"Film",
         "answer":"1"
     },
         {
-        "question":"Sun Is The Source Of ...",
-        "option1":"Fun",
-        "option2":"None",
-        "option3":"Light",
+        "question":"14/24 =...",
+        "option1":"1/2",
+        "option2":"4/4",
+        "option3":"7/12",
         "answer":"3"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"Root of 9..",
+        "option1":"1",
+        "option2":"2",
+        "option3":"3",
+        "answer":"3"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"cp=Rs.20 , sp= Rs.90, . P=?",
+        "option1":"Rs.7",
+        "option2":"Rs. 70",
+        "option3":"Rs. 700",
+        "answer":"2"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"Coefficient 3, base X, Power 4 is ..",
+        "option1":"X",
+        "option2":"3X",
+        "option3":"3X⁴",
+        "answer":"3"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"2(4-6+7)=",
+        "option1":"1",
+        "option2":"10",
+        "option3":"100",
+        "answer":"2"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"10:45 = ",
+        "option1":"1:4",
+        "option2":"2:9",
+        "option3":"4:2",
+        "answer":"2"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"7²",
+        "option1":"14",
+        "option2":"48",
+        "option3":"49",
+        "answer":"3"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"2x3x4x5",
+        "option1":"1",
+        "option2":"12",
+        "option3":"120",
+        "answer":"3"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
+        "question":"8+(6+4)-{4x6-4}",
+        "option1":"2",
+        "option2":"-2",
+        "option3":"20",
+        "answer":"2"
     },
         {
-        "question":"",
-        "option1":"",
-        "option2":"",
-        "option3":"",
-        "answer":""
-    },
+        "question":"The Difference Of 4 and 8 is ..",
+        "option1":"4",
+        "option2":"8",
+        "option3":"10",
+        "answer":"1"
+    }
     ]
