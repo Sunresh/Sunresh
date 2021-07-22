@@ -1,0 +1,14 @@
+{
+        "package": {
+            "downloadUrl": "https://raw.githubusercontent.com/Sunresh/Sunresh/master/app.apk"
+        },
+
+        "0.2": {
+        "versionCode": 2,
+        "changelog": ["New automatic update checker", "Improved template interactions"]
+        },
+        "0.1": {
+        "versionCode": 1,
+        "changelog": ["fixed crash"]
+        }
+    }
