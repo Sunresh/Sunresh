@@ -1,72 +1,71 @@
-Version: 2.0.05 <br/>
+Version: 2.0.05 
 
 
-        1. Added dictionary📒.<br/>
-        2. Added news feed BBC /CNN/Kantipur/Nagarik News.<br/>
-        3. Added some minor changes😚.<br/>
-        4. Fixed minor bugs.<br/>
-
-
-
-<br/>______________<br/>
-Version: 1.9.7 <br/>
-
-
-        1. Added Splash page for SUNRESH brand logo.<br/>
-        2. Removed simple calculator.<br/>
-        3. Added online thought.<br/>
-        4. Fixed minor bugs.<br/>
+        1. Added dictionary📒.
+        2. Added news feed BBC /CNN/Kantipur/Nagarik News.
+        3. Added some minor changes😚.
+        4. Fixed minor bugs.
 
 
 
-<br/>______________<br/>
-Version: 1.9.4 <br/>
-        1. Fixed minor bugs.<br/>
-        2. Removed menu items<br/>
-<br/>______________<br/>
-Version: 1.9.3 <br/>
-        1. Fixed minor bugs.<br/>
-        2. Notification for individual<br/>
-<br/>______________<br/>
-Version: 1.9.2 <br/>
-        1. Fixed minor bugs.<br/>
+
+Version: 1.9.7 
+
+
+        1. Added Splash page for SUNRESH brand logo.
+        2. Removed simple calculator.
+        3. Added online thought.
+        4. Fixed minor bugs.
+
+
+
+Version: 1.9.4 
+        1. Fixed minor bugs.
+        2. Removed menu items.
+
+Version: 1.9.3 
+        1. Fixed minor bugs.
+        2. Notification for individual.
+
+Version: 1.9.2 
+        1. Fixed minor bugs.
         
-<br/>______________<br/>
-Version: 1.9.1 <br/>
-        1. Physics menu added.<br/>
-        2. Edited home page. <br/>	
-        3. Fixed minor bugs.<br/>
+
+Version: 1.9.1 
+        1. Physics menu added.
+        2. Edited home page. 
+        3. Fixed minor bugs.
         
-<br/>______________<br/>
-Version: 1.9.0 <br/>
-        1. Changelog view is online.<br/>
-        2. Menu button fixed. <br/>	
+
+Version: 1.9.0 
+        1. Changelog view is online.
+        2. Menu button fixed. 
         
-<br/>______________<br/>
-Version: 1.9  <br/>
-        1. Calculator combined in one slide.<br/>
-        2. Solved some error. <br/>	
-<br/>______________<br/>
-Version: 1.8  <br/>
-        1. Previous button added. <br/>
-        2. Fixed some error. <br/>	
-		<br/>______________<br/>
-Version: 1.7 <br/>
-        1. Manual update added. <br/>
-        2. Developer view added. <br/>
-        3. Fixed some error. <br/>	
-<br/>______________<br/>
-		Version: 1.6 <br/>
-        1. Date Notification remove. <br/>
-        2. Feedback fixed. <br/>
-        3. Some error fixed. <br/>
-		<br/>______________<br/>
-		Version: 1.5 <br/>
-        1. Better speed. <br/>
-        2. Removed some contents as given by feedbacks. <br/>
-        3. Solved some error fixed. <br/>
-		<br/>______________<br/>
-        Version: 1.4 <br/>
-        1. UI changes. <br/>
-        2. Made Feedback easier. <br/>
-        3. Fixed Updating . <br/>
+
+Version: 1.9  
+        1. Calculator combined in one slide.
+        2. Solved some error. 	
+
+Version: 1.8  
+        1. Previous button added. 
+        2. Fixed some error. 
+		
+Version: 1.7 
+        1. Manual update added. 
+        2. Developer view added. 
+        3. Fixed some error. 	
+
+		Version: 1.6 
+        1. Date Notification remove. 
+        2. Feedback fixed. 
+        3. Some error fixed. 
+		
+		Version: 1.5 
+        1. Better speed. 
+        2. Removed some contents as given by feedbacks. 
+        3. Solved some error fixed. 
+		
+        Version: 1.4 
+        1. UI changes. 
+        2. Made Feedback easier. 
+        3. Fixed Updating . 
