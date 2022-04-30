@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 20.0 10.0"
+	enable-background="new 0 0 20.0 10.0"
+	xml:space="preserve">
+	<path
+		fill="#CCCCCC"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M-0.00,0.00L20.00,0.00L20.00,10.00L-0.00,10.00z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="bevel"
+		stroke-linecap="round"
+		d="M0.00,-0.00L14.17,0.00L14.17,10.00L0.00,10.00z"/>
+	<path
+		fill="#110AFF"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M14.17,0.00L20.00,0.00L20.00,10.00L14.17,10.00z"/> 
+
+	<text 
+		font-size="10.0"
+		font-family="default"
+		fill="#FFFFFF"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+		font-weight="bold"
+   		transform="rotate(-0.0 33.333336 5.833333) scale(0.6024218 1.0)" >
+
+		<tspan x="23.689108" y="8.802833">in</tspan>
+	</text> 
+
+	<text 
+		font-size="10.416665"
+		font-family="default"
+		fill="#2400FF"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+		font-weight="bold"
+   		transform="rotate(-0.0 13.333332 5.208334) scale(0.43760324 1.0)" >
+
+		<tspan x="0.0" y="9.195834">Linked</tspan>
+	</text>
+</svg>
