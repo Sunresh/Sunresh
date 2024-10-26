@@ -3,16 +3,34 @@
 # Declare the global variable
 TERMUX_PATH="/storage/emulated/0/Download/github/termux"
 # TERMUX_PATH="$PWD"
+setup_github() {
+    # Configure Git
+    read -p "GitHub username: " username
+    read -p "GitHub email: " email
+    git config --global user.name "$username"
+    git config --global user.email "$email"
+    git config --global credential.helper store
+
+    # Setup GitHub CLI
+    gh auth login -h github.com -p https -w || { echo "GitHub CLI setup failed"; exit 1; }
+
+    # Prepare for GUI
+    mkdir -p ~/.termux-github
+    echo '{"gui_enabled":false,"gui_port":8080}' > ~/.termux-github/gui_config.json
+
+    echo "GitHub setup complete. Credentials stored locally."
+}
 
 # Function to clone a repository
 clone_repository() {
   echo "Cloning a repository...from sunresh"
   read -p "Enter GitHub repo: " repo_name
-  
+
+  # check_and_create_path "storage/downloads/Github/$repo_name"
   find "$TERMUX_PATH/$repo_name" -mindepth 1 -delete
 
   git clone "https://www.github.com/sunresh/$repo_name" "$TERMUX_PATH/$repo_name"
-  git config --global --add safe.directory "$TERMUX_PATH/$repo_name"
+  git config --global --add safe.directory $TERMUX_PATH/$repo_name
   if [ $? -eq 0 ]; then
     echo "$repo_name is cloned successfully into $TERMUX_PATH/$repo_name"
   else
@@ -66,7 +84,7 @@ function updatae() {
 
 function g_setup() {
     clear 
-    source "$TERMUX_PATH/g_setup.sh"
+    setup_github
 }
 
 function esr() {
