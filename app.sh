@@ -3,32 +3,74 @@
 
 create_bashrc() {
     local bashrc_content='#!/bin/bash
+    
+# Global variables
+export APP_DIR="/storage/emulated/0/download/github/termux"
+export CONFIG_FILE="$APP_DIR/config.sh"
 
-BASH_PATH_SOURCE="$PWD"
-BASH_PATH_TARGET="$HOME"
+# Function to source the app script
+h() {
+    source "$APP_DIR/app.sh"
+}
 
-# Create a backup of the existing .bashrc in the home directory
-if [ -f "$BASH_PATH_TARGET/.bashrc" ]; then
-    cp "$BASH_PATH_TARGET/.bashrc" "$BASH_PATH_TARGET/.bashrc.backup"
-    echo "Backup of existing .bashrc created in home directory"
-fi
+# Function to edit the app script
+edit_app() {
+    nano "$APP_DIR/app.sh"
+}
 
-# Copy the .bashrc from the source to the home directory
-cp "$BASH_PATH_SOURCE/bashrc.txt" "$BASH_PATH_TARGET/.bashrc"
-echo "Copy complete: .bashrc copied to home directory"
+# Function to update the app from GitHub
+update_app() {
+    cd "$APP_DIR"
+    git config --global --add safe.directory $APP_DIR
+    git pull
+    cd - > /dev/null
+}
 
-# Make sure .bashrc is readable (not executable)
-chmod 644 "$BASH_PATH_TARGET/.bashrc"
-echo "Permissions set for .bashrc"
+# Function to show app status
+app_status() {
+    if [ -f "$APP_DIR/app.sh" ]; then
+        echo "App script exists"
+        echo "Last modified: $(stat -c %y "$APP_DIR/app.sh")"
+    else
+        echo "App script not found"
+    fi
+}
 
-# Source the new .bashrc
-source "$BASH_PATH_TARGET/.bashrc"
-echo "New .bashrc applied"
+# Function to load custom configuration
+load_config() {
+    if [ -f "$CONFIG_FILE" ]; then
+        source "$CONFIG_FILE"
+        echo "Configuration loaded"
+    else
+        echo "Configuration file not found"
+    fi
+}
 
-echo "Setup complete. You can now use custom aliases and configurations."'
+cdapp() {
+   cd "$APP_DIR"
+}
+
+home() {
+   cd "$HOME"
+}
+
+
+'
 
     echo "$bashrc_content" > "$HOME/.bashrc"
     echo ".bashrc file created successfully in $HOME"
+    
+    BASH_PATH_TARGET="$HOME"
+
+    # Make sure .bashrc is readable (not executable)
+    chmod 644 "$BASH_PATH_TARGET/.bashrc"
+    echo "Permissions set for .bashrc"
+
+    # Source the new .bashrc
+    source "$BASH_PATH_TARGET/.bashrc"
+    echo "New .bashrc applied"
+
+    echo "Setup complete. You can now use custom aliases and configurations."
 }
 
 # Call the function to create .bashrc
